@@ -158,12 +158,10 @@ html {
 
   width: auto;
   margin-bottom: 10px;
-  box-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
   border-radius: 5px;
 }
 
 .skill-item:hover {
-  box-shadow: 0 0px 20px rgba(0, 0, 0, 11.5);
   transform: scale(1.1);
 }
 
@@ -173,16 +171,13 @@ html {
 }
 
 .skill-item:hover {
-  box-shadow: 0 0px 20px rgba(0, 0, 0, 11.5);
   transform: scale(1.1);
-
   transform: translate3d(0px, -6px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
   transform-style: preserve-3d;
 
 }
 
 #skill-p {
-  box-shadow: 0 0px 10px rgba(0, 0, 0, 11.5);
   border-radius: 25px;
   padding: 20px;
 }
@@ -405,14 +400,12 @@ html {
   background: white;
   padding: 10px;
   border-radius: 20px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 1.5);
 }
 
 #project-item-img {
   border-radius: 20px;
   min-width: 300px;
   height: 300px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 1.5);
   object-fit: cover;
 }
 
