@@ -355,9 +355,9 @@
     height: 10px;
     top: 24px;
     right: -6px;
-    background: rgba(233, 33, 99, 1);
+    background: #769FCD;
     border-radius: 50%;
-    box-shadow: 0 0 0 3px rgba(233, 33, 99, 0.2);
+    box-shadow: 0 0 0 3px #a5c2e4;
   }
 
   .timeline ul li:nth-child(even):before {
@@ -367,15 +367,15 @@
     height: 10px;
     top: 24px;
     left: -4px;
-    background: rgba(233, 33, 99, 1);
+    background: #769FCD;
     border-radius: 50%;
-    box-shadow: 0 0 0 3px rgba(233, 33, 99, 0.2);
+    box-shadow: 0 0 0 3px #a5c2e4;
   }
 
   .timeline ul li h3 {
     padding: 0;
     margin: 0;
-    color: rgba(233, 33, 99, 1);
+    color: #769FCD;
     font-weight: 600;
   }
 
@@ -396,10 +396,10 @@
     right: -165px;
     margin: 0;
     padding: 8px 16px;
-    background: rgba(233, 33, 99, 1);
+    background: #769FCD;
     color: #fff;
     border-radius: 18px;
-    box-shadow: 0 0 0 3px rgba(233, 33, 99, 0.3);
+    box-shadow: 0 0 0 3px #a5c2e4;
   }
 
   .timeline ul li:nth-child(even) .time {
@@ -408,10 +408,10 @@
     left: -165px;
     margin: 0;
     padding: 8px 16px;
-    background: rgba(233, 33, 99, 1);
+    background: #769FCD;
     color: #fff;
     border-radius: 18px;
-    box-shadow: 0 0 0 3px rgba(233, 33, 99, 0.3);
+    box-shadow: 0 0 0 3px #a5c2e4;
   }
 
   @media(max-width:1000px) {
@@ -496,7 +496,7 @@
 
 .project-item-text {
   margin-left: 20px;
-  background: white;
+  background: rgba(255, 255, 255, 0.6);
   padding: 10px;
   border-radius: 20px;
 }
@@ -504,14 +504,14 @@
 #project-item-img {
   border-radius: 20px;
   min-width: 300px;
-  height: 300px;
+  height: 90%;
   object-fit: cover;
 }
 
 @media(max-width: 1250px) {
   #project-item-img {
     min-width: 200px;
-    height: 200px;
+    height: 90%
   }
 }
 
@@ -519,7 +519,7 @@
   #project-item-img {
     min-width: 120px;
     width: 120px;
-    height: 120px;
+    height: 90%;
     margin-bottom: 0px;
   }
 
@@ -912,7 +912,7 @@ iframe-crop {
   box-shadow: none;
   margin: 0px;
 
-  background: #17c3b7;
+  background: #D6E6F2;
   margin-top: -10px;
 }
 
