@@ -1,7 +1,6 @@
 {
   "hosting": {
-    "site": "shreeprasadsonar",
-    "public": "dist",
+    "public": "out",
     "ignore": [
       "firebase.json",
       "**/.*",
