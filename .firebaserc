@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "shreeprasadsonar"
-  }
+    "default": "shreeprasadsonar",
+    "portfolio": "shreeprasadsonar"
+  },
+  "targets": {},
+  "etags": {}
 }

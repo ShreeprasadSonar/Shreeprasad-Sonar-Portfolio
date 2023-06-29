@@ -8,6 +8,8 @@ import MouseContextProvider from "../context/mouseContext";
 import GoogleAnalytics from "@bradgarropy/next-google-analytics";
 import { NextSeo } from "next-seo";
 
+import Script from 'next/script'
+
 import Router from "next/router";
 import NProgress from "nprogress"; //nprogress module
 import { useEffect, useState, useRef } from "react";
@@ -61,6 +63,21 @@ export default function App({ Component, pageProps, router }: AppProps) {
 
   return (
     <>
+    <Script strategy="afterInteractive" src="https://www.googletagmanager.com/gtag/js?id=G-5BW59VPKHT"/>
+    <Script
+      id='google-analytics'
+      strategy="afterInteractive"
+      dangerouslySetInnerHTML={{
+        __html: `
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-5BW59VPKHT', {
+            page_path: window.location.pathname,
+          });
+        `,
+        }}
+    />
       <NextSeo
         title="Shreeprasad Sonar"
         description="Hey, my name is Shreeprasad Sonar but I am much better known as Shree."
