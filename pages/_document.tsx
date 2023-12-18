@@ -75,7 +75,7 @@ stroke="white"
 </svg>
           </div>
           <p className="copyright">
-          Loading... Patience, I'm worth the wait!
+          Loading...
           </p>
         </div>
         <Main />

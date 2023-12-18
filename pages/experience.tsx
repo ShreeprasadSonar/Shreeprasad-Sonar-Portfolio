@@ -27,13 +27,13 @@ export default function Experience() {
 
   const works: Work[] = [
     {
-      name: "The University of Texas at Dallas",
-      url: "https://drive.google.com/file/d/1SdQ7ufkEfqSE3glQFmWfGRgioSs_Fxzv/view?usp=sharing",
-      position: "Masters in Computer Science - GPA 3.78",
+      name: "The University of Texas at Dallas - Graduating May 2024",
+      url: "https://drive.google.com/file/d/1uoLckJuDVUIVDFcU_0wTDNIo2canZTnn/view?usp=sharing",
+      position: "Masters in Computer Science - GPA 3.85",
       location: "Richardson, TX, USA",
-      date: "Aug 2022 - Present",
+      date: "Aug 2022 - May 2024",
       description: "I am currently pursuing a Master's degree in Computer Science at The University of Texas at Dallas, with a plan to graduate in May 2024. This educational journey is equipping me with advanced knowledge and skills in the field, preparing me for a successful career in the ever-evolving world of technology.",
-      stacks: ["Artificial Intelligence", "Machine Learning", "Design and Analysis of Computer Algorithms", "Database Design", "Virtual Reality", "Discrete Structures"],
+      stacks: ["Artificial Intelligence", "Machine Learning", "Big Data Management and Analytics", "Natural Language Processing", "Database Design", "Design and Analysis of Computer Algorithms", "Robot Manipulation and Navigation", "Virtual Reality", "Discrete Structures"],
     },
     {
       name: "Savitribai Phule Pune University",
@@ -47,23 +47,23 @@ export default function Experience() {
   ];
   const internships: Work[] = [
     {
+      name: "FedEx",
+      url: "https://www.linkedin.com/in/shreeprasadsonar/",
+      position: "Full Stack Developer - Innovation Award Winner",
+      location: "Internship",
+      date: "June 2023 - Present",
+      description:"In my role as an Information Technology intern, I developed an error and fault monitoring system, creating alerts and a monitoring dashboard for leaders and stakeholders to track issues across frontend and backend services. Additionally, I utilized Agile methodologies, taking on the roles of Scrum Master, Product Owner, and Developer, and worked collaboratively to ensure seamless communication and efficient project management.",
+      stacks: ["API Integration", "PowerBI", "Application Dynamics", "Splunk", "Scrum Master", "Product Owner"],
+    },
+    {
       name: "Cognizant",
       url: "https://www.linkedin.com/in/shreeprasadsonar/",
-      position: "Programmer Analyst",
+      position: "Programmer Analyst - Top Performer Accolade",
       location: "Full-time",
       date: "Aug 2021 - July 2022",
       description:
         "During my tenure as a Programmer Analyst at Cognizant, I developed and designed an incident management system using Angular and FastAPI. I achieved a significant improvement of 50% in incident tracking time and successfully pitched the solution to clients. Additionally, my collaboration with Center of Excellence teams enabled effective implementation of diverse solutions to meet client requirements, resulting in being recognized as the Associate of the Month for my early project development progress.",
       stacks: ["Angular", "TypeScript", "JavaScript", "Node.js", "React.js", "HTML", "Python", "CSS", "Bootstrap", "Fast-API", "ServiceNow Development", "GitHub"],
-    },
-    {
-      name: "FedEx",
-      url: "https://www.linkedin.com/in/shreeprasadsonar/",
-      position: "Information Technology Intern",
-      location: "Internship",
-      date: "June 2023 - Present",
-      description:"In my role as an Information Technology intern, I developed an error and fault monitoring system, creating alerts and a monitoring dashboard for leaders and stakeholders to track issues across frontend and backend services. Additionally, I utilized Agile methodologies, taking on the roles of Scrum Master, Product Owner, and Developer, and worked collaboratively to ensure seamless communication and efficient project management.",
-      stacks: ["API Integration", "PowerBI", "Application Dynamics", "Splunk", "Scrum Master", "Product Owner"],
     },
     {
       name: "Cognizant",

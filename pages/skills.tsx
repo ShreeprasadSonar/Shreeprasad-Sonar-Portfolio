@@ -138,61 +138,78 @@ export default function Skills() {
 {
   "title": "Tools",
   "skills": [
-  {
-  "url": "https://www.svgrepo.com/show/452211/github.svg",
-  "name": "GitHub",
-  "color": "#181717",
-  "colorRGB": "24, 23, 23"
-  },
-  {
-  "url": "https://www.svgrepo.com/show/373848/mysql.svg",
-  "name": "MySQL",
-  "color": "#4479A1",
-  "colorRGB": "68, 121, 161"
-  },
-  {
-  "url": "https://www.svgrepo.com/show/353498/bootstrap.svg",
-  "name": "Bootstrap",
-  "color": "#7952B3",
-  "colorRGB": "121, 82, 179"
-  },
-  {
-  "url": "https://www.svgrepo.com/show/340603/logo-jupyter.svg",
-  "name": "Jupyter Notebook",
-  "color": "#F37626",
-  "colorRGB": "243, 118, 38"
-  },
-  {
-  "url": "https://www.svgrepo.com/show/410899/plot.svg",
-  "name": "Matplotlib",
-  "color": "#11557C",
-  "colorRGB": "17, 85, 124"
-  },
-  {
-  "url": "https://www.svgrepo.com/show/473742/pandas.svg",
-  "name": "Pandas",
-  "color": "#150458",
-  "colorRGB": "21, 4, 88"
-  },
-  {
-  "url": "https://www.svgrepo.com/show/473533/anaconda.svg",
-  "name": "Anaconda",
-  "color": "#44A833",
-  "colorRGB": "68, 168, 51"
-  },
-  {
-  "url": "https://www.svgrepo.com/show/473818/unity.svg",
-  "name": "Unity",
-  "color": "#000000",
-  "colorRGB": "0, 0, 0",
-  "isBgBlack": true
-  },
-  {
-  "url": "https://www.svgrepo.com/show/396909/letter-s.svg",
-  "name": "ServiceNow",
-  "color": "#1B8DDE",
-  "colorRGB": "27, 141, 222"
-  }
+    {
+      "url": "https://www.svgrepo.com/show/330261/databricks.svg",
+      "name": "Databricks",
+      "color": "#000000",
+      "colorRGB": "173, 216, 230"
+    },
+    {
+      "url": "https://www.svgrepo.com/show/452211/github.svg",
+      "name": "GitHub",
+      "color": "#181717",
+      "colorRGB": "24, 23, 23"
+    },
+    {
+      "url": "https://cdn.icon-icons.com/icons2/2699/PNG/512/servicenow_logo_icon_168835.png",
+      "name": "ServiceNow",
+      "color": "#81B5A1",
+      "colorRGB": "27, 141, 222"
+    },
+    {
+      "url": "https://www.svgrepo.com/show/373595/firebase.svg",
+      "name": "Firebase",
+      "color": "#FCCA3F",
+      "colorRGB": "255, 165, 0"
+    },
+    {
+      "url": "https://www.svgrepo.com/show/353804/google-analytics.svg",
+      "name": "Google Analytics",
+      "color": "#F9AB00",
+      "colorRGB": "242, 200, 17"
+    },
+    {
+      "url": "https://www.svgrepo.com/show/473533/anaconda.svg",
+      "name": "Anaconda",
+      "color": "#44A833",
+      "colorRGB": "68, 168, 51"
+    },
+    {
+      "url": "https://www.svgrepo.com/show/473742/pandas.svg",
+      "name": "Pandas",
+      "color": "#150458",
+      "colorRGB": "21, 4, 88"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png",
+      "name": "Matplotlib",
+      "color": "#11557C",
+      "colorRGB": "17, 85, 124"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png",
+      "name": "PowerBI",
+      "color": "#F6DA5C",
+      "colorRGB": "242, 200, 17"
+    },
+    {
+      "url": "https://www.svgrepo.com/show/340603/logo-jupyter.svg",
+      "name": "Jupyter Notebook",
+      "color": "#F37626",
+      "colorRGB": "243, 118, 38"
+    },
+    {
+      "url": "https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png",
+      "name": "NumPy",
+      "color": "#013243",
+      "colorRGB": "1, 50, 67"
+    },
+    {
+      "url": "https://www.svgrepo.com/show/330547/googlecolab.svg",
+      "name": "Colab",
+      "color": "#FF9900",
+      "colorRGB": "255, 153, 0"
+    }
   ]
   },
   {
