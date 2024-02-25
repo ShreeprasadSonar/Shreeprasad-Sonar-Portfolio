@@ -57,6 +57,7 @@ export default function Home() {
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
+        <meta name="google-site-verification" content="c_elduv7qxGtzBC37U5ZLyCcJnNjTsZyc8ScAVK1GLQ" />
       </Head>
       <main className="home">
         <div className="home-velo">

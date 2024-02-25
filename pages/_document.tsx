@@ -75,7 +75,8 @@ stroke="white"
 </svg>
           </div>
           <p className="copyright">
-          Loading...
+          Loading... <br />       
+          Forked from <a href="https://github.com/ln-dev7/lndev.me/tree/old-version">n-dev7/lndev.me</a>
           </p>
         </div>
         <Main />
