@@ -35,4 +35,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-This project was forked from [ln-dev7/lndev.me]([https://nextjs.org/docs/deployment](https://github.com/ln-dev7/lndev.me/tree/old-version)https://github.com/ln-dev7/lndev.me/tree/old-version)
+This project was forked from [ln-dev7/lndev.me](https://github.com/ln-dev7/lndev.me/tree/old-version).
